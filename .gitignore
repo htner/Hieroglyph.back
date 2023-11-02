@@ -79,3 +79,5 @@ proto/*/*.h
 proto/*/*.cc
 *.out
 *gdb_history
+proto/*
+gosrv/*
