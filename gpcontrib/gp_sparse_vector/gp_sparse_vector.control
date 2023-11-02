@@ -1,3 +1,0 @@
-comment = 'SParse vector implementation for GreenPlum'
-default_version = '1.0.1'
-relocatable = true
